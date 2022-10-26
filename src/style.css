@@ -403,3 +403,22 @@ iframe {
         height: 800px;
     }
 }
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    width: 517px;
+    height: 147px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    width: 517px;
+    height: 147px;
+}
+
+.gmap_iframe {
+    width: 517px !important;
+    height: 147px !important;
+}
